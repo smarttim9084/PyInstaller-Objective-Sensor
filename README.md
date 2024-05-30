@@ -1,6 +1,7 @@
 # PyInstaller-Objective-Sensor
 這是將python程式輸出為在電腦運行的APP，在本程式中使用YOLO-Real-Time-Object-Detection 作為範例，進行打包。
 https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection/blob/master/real_time_yolo_detector2.py
+
 以ios Mac的版本在python上運行。此外尚有其他方法，但本程式碼以這個為例
 
 
